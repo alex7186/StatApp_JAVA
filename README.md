@@ -3,12 +3,6 @@
 ## Setup
 
 1. Install the requremets:
-* Java (Client app) requirements:
-  * [`org.json.JSONObject`](https://mvnrepository.com/artifact/org.json/json)
-  * [`org.json.JSONArray`](https://mvnrepository.com/artifact/org.json/json) <br>
-  (or just add json-20140107.jar to your project)
-  
-  
 * Python3 (Server app) reqirements:
   * `seaborn`
   * `matplotlib`
@@ -19,8 +13,9 @@
 
 2. Start the python3 server via <br>
  `python3 <path_to_your_file>/server_python.py`
-4. Open Java file in your IDE and add <b>Java requirements</b> to your project
-5. Run project
+4. Open jar file via <br>
+ `java -jar <path_to_your_file>/StatApp_Java.jar`
+
 
 ## Usage
 1. Enter your sample of numbers (or write both)
