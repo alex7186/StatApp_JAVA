@@ -6,6 +6,7 @@
 * Java (Client app) requirements:
   * [`org.json.JSONObject`](https://mvnrepository.com/artifact/org.json/json)
   * [`org.json.JSONArray`](https://mvnrepository.com/artifact/org.json/json)
+  (or just add json-20140107.jar to your project)
   
   
 * Python3 (Server app) reqirements:
