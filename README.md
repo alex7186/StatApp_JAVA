@@ -16,6 +16,7 @@
   * `fastapi`
   * `starlette`
 
-2. Start the python3 server via `python3 <path_to_your_file>/server_python.py
-3. Open Java file in your IDE and add <b>Java requirements</b> to your project
-4. Run project
+2. Start the python3 server via <br>
+ `python3 <path_to_your_file>/server_python.py`
+4. Open Java file in your IDE and add <b>Java requirements</b> to your project
+5. Run project
