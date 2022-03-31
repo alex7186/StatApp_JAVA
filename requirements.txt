@@ -1,0 +1,9 @@
+pybase64
+numpy
+seaborn
+matplotlib
+pandas
+uvicorn
+pysqlite3
+fastapi
+starlette
