@@ -2,25 +2,20 @@
 
 ## Setup
 
-1. Install the requremets:
-* Python3 (Server app) reqirements:
-  * `seaborn`
-  * `matplotlib`
-  * `pandas`
-  * `uvicorn`
-  * `fastapi`
-  * `starlette`
+1. Install the requremets: <br>
+  `cd <path_to_file>` <br>
+  `make setup`
 
 2. Start the python3 server via <br>
- `python3 <path_to_your_file>/server_python.py`
-4. Open jar file via <br>
+ `make start`
+4. Execute jar file via <br>
  `java -jar <path_to_your_file>/StatApp_Java.jar`
 
 
 ## Usage
-1. Enter your sample of numbers (or write both)
+1. Enter your sample of numbers separated through a comma <br> Decimal fractions must be written with a dot
 
-2. Fill in details of Method Sr and True Value
+2. Fill in details of Method Sr and True Value (if presented)
 3. Press the `Подтвердить` button
 
 ## Example of program execution
